@@ -1,2 +1,0 @@
-Chu ky 2: deta6 = deta7
-          deta7 = deta6
