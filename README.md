@@ -17,6 +17,11 @@ Structural Model
 
 ![image](https://user-images.githubusercontent.com/62774638/156407452-331e9ebf-a1a5-43e5-a21d-0f774b9bb852.png)
 
+Design Model
+
+![image](https://user-images.githubusercontent.com/62774638/156415420-066cf25e-0c9d-47e4-9916-695d4201a257.png)
+
+
 Physical Model
 
 ![image](https://user-images.githubusercontent.com/62774638/156407544-5cf9f898-fef4-4a9f-89c0-2a4e7e8d4ac3.png)
