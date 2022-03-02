@@ -1,4 +1,4 @@
-# Stable-Gait-Optimization-for-Small-Sized-Humanoid-Robot-Using-CFO
+# Stable Gait Optimization for Small Sized Humanoid Robot Using CFO
 
 This research proposes a new way to optimize the gait
 design for human robots that allows stable stepping with preset
